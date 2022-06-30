@@ -563,7 +563,8 @@ textarea, label {
 .author-image-large img {
   height: -webkit-calc(100vh - 4px);
   height: -moz-calc(100vh - 4px);
-  height: calc(100vh - 4px);
+  /* height: calc(100vh - 4px); */
+  height: 70vh;
 }
 
 /*------------------------------------------------
